@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.iserveu</groupId>
 	<artifactId>fin</artifactId>
-	<version>0.0.1</version>
+	<version>1</version>
 	<packaging>jar</packaging>
 	<name>fin</name>
 	<url>http://maven.apache.org</url>
@@ -59,25 +59,7 @@
 					</archive>
 				</configuration>
 			</plugin>
-			
-			<!--  <plugin>
-            <groupId>com.github.wvengen</groupId>
-            <artifactId>proguard-maven-plugin</artifactId>
-            <version>2.0.15</version>
-            <executions>
-                <execution>
-                    <goals>
-                        <goal>proguard</goal>
-                    </goals>
-                </execution>
-            </executions>
-            <configuration>
-                <options>
-                    <option>-dontobfuscate</option>
-                    <option>-dontoptimize</option>
-                </options>
-            </configuration>
-        </plugin> -->
+		
         
 		</plugins>
 	</build>
