@@ -1,6 +1,21 @@
 Manifest-Version: 1.0
 Built-By: ISU-1014
+Class-Path: spring-context-5.3.29.jar spring-aop-5.3.29.jar spring-bea
+ ns-5.3.29.jar spring-core-5.3.29.jar spring-jcl-5.3.29.jar spring-exp
+ ression-5.3.29.jar spring-boot-starter-web-2.3.4.RELEASE.jar spring-b
+ oot-starter-2.3.4.RELEASE.jar spring-boot-2.3.4.RELEASE.jar spring-bo
+ ot-autoconfigure-2.3.4.RELEASE.jar spring-boot-starter-logging-2.3.4.
+ RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-ap
+ i-1.7.25.jar log4j-to-slf4j-2.13.3.jar log4j-api-2.13.3.jar jul-to-sl
+ f4j-1.7.30.jar jakarta.annotation-api-1.3.5.jar snakeyaml-1.26.jar sp
+ ring-boot-starter-json-2.3.4.RELEASE.jar jackson-databind-2.11.2.jar 
+ jackson-annotations-2.11.2.jar jackson-core-2.11.2.jar jackson-dataty
+ pe-jdk8-2.11.2.jar jackson-datatype-jsr310-2.11.2.jar jackson-module-
+ parameter-names-2.11.2.jar spring-boot-starter-tomcat-2.3.4.RELEASE.j
+ ar tomcat-embed-core-9.0.38.jar jakarta.el-3.0.3.jar tomcat-embed-web
+ socket-9.0.38.jar spring-web-5.2.9.RELEASE.jar spring-webmvc-5.2.9.RE
+ LEASE.jar
 Build-Jdk: 1.8.0_221
 Created-By: Maven Integration for Eclipse
-Main-Class: com.iserveu.fin.MyLibrary
+Main-Class: com.iserveu.fin.Finacial
 

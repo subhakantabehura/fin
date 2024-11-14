@@ -1,2 +1,4 @@
-com\iserveu\fin\MyLibrary.class
+com\iserveu\fin\request\wallet2DebitRequestPojo.class
+com\iserveu\fin\Finacial.class
 com\iserveu\fin\App.class
+com\iserveu\fin\response\WalletResponse.class
